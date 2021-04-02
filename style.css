@@ -1,0 +1,29 @@
+
+.card{
+    width: 400px;
+    box-shadow: 1px 0px 50px -19px #000000;
+}
+
+.question{
+    margin: 2em;
+}
+
+.question-text{
+    display: none;
+}
+
+.show-text .question-text{
+    display: block;
+}
+
+.show-text .btn-minus{
+    display: inline;
+}
+
+.btn-minus{
+    display: none;
+}
+
+.show-text .btn-plus{
+    display: none;
+}
